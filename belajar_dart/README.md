@@ -1,4 +1,6 @@
-## **NAVIGATE THROUGH THE BIN FOLDER TO SEE THE PROJECT**
+## First Project
+
+(**NAVIGATE THROUGH THE BIN FOLDER TO SEE THE PROJECT**)
 
 This is where I first learned Dart.
 
