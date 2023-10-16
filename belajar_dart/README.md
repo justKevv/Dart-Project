@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+This is where I first learned Dart.
+
+I used the write function built-in Dart to do a simple project where user input their name and age and  print it out
