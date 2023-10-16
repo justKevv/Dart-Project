@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Conversion Temperature Project
+
+(**Navigate through the bin folder**)
+
+This project lets user converts from Fahrenheit to any temperature
